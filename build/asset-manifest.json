@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.566e704a.chunk.css",
+    "main.js": "/static/js/main.37196e31.chunk.js",
+    "main.js.map": "/static/js/main.37196e31.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4ecb8083.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4ecb8083.js.map",
+    "static/js/2.be3a3e2e.chunk.js": "/static/js/2.be3a3e2e.chunk.js",
+    "static/js/2.be3a3e2e.chunk.js.map": "/static/js/2.be3a3e2e.chunk.js.map",
+    "static/js/3.06a75cd3.chunk.js": "/static/js/3.06a75cd3.chunk.js",
+    "static/js/3.06a75cd3.chunk.js.map": "/static/js/3.06a75cd3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.566e704a.chunk.css.map": "/static/css/main.566e704a.chunk.css.map",
+    "static/js/2.be3a3e2e.chunk.js.LICENSE.txt": "/static/js/2.be3a3e2e.chunk.js.LICENSE.txt",
+    "static/media/accessories.426b7654.svg": "/static/media/accessories.426b7654.svg",
+    "static/media/bottomwear.e3e44f31.svg": "/static/media/bottomwear.e3e44f31.svg",
+    "static/media/cart.75480f14.svg": "/static/media/cart.75480f14.svg",
+    "static/media/footwear.75ce3593.svg": "/static/media/footwear.75ce3593.svg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/topwear.cc8d5784.svg": "/static/media/topwear.cc8d5784.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ecb8083.js",
+    "static/js/2.be3a3e2e.chunk.js",
+    "static/css/main.566e704a.chunk.css",
+    "static/js/main.37196e31.chunk.js"
+  ]
+}
